@@ -10,5 +10,5 @@ Screenshots
 
 ![Admin](/screenshots/admin.png)
 ![Operator](/screenshots/operator.png)
-![End of day inventory](/screenshots/admin.png)
+![End of day inventory](/screenshots/eodInventory.png)
 ![Sales Report](/screenshots/report.png)
